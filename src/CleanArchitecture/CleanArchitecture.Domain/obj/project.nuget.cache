@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UX83+ygPOBdIP8B0eyfZ21fzlmNolszk4yYTUEl5010BtuNIjfH3XGNou4a6CJiSwMQ8cqZ06+yAMSApHoo+3A==",
+  "success": true,
+  "projectFilePath": "D:\\Programs WEB\\CleanArchitecture\\src\\CleanArchitecture\\CleanArchitecture.Domain\\CleanArchitecture.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\braya\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
